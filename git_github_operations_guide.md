@@ -621,21 +621,3 @@ git push       上传 GitHub
 git pull       拉取更新
 git clone      下载项目
 ```
-
----
-
-## 15. 推荐下一步
-
-你下一步可以练习：
-
-> 创建一个 `json-practice` 仓库，把你写的 JSON 文件上传到 GitHub。
-
-这个练习能同时掌握：
-
-```text
-JSON 文件编写
-Git 本地提交
-GitHub 远程仓库
-push 上传
-README 项目说明
-```
